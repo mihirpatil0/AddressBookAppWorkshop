@@ -1,0 +1,22 @@
+{
+    "ContactDB": [
+        {
+            "id": 1,
+            "_name": "Sameer",
+            "_phoneNumber": "90 9",
+            "_address": "Bhandup",
+            "_city": "Mumbai",
+            "_state": "Maharashtra",
+            "_zip": "400078"
+        },
+        {
+            "id": 2,
+            "_name": "Mihir",
+            "_phoneNumber": "91 9987884804",
+            "_address": "Shriwardhan",
+            "_city": "Raigad",
+            "_state": "Maharashtra",
+            "_zip": "402110"
+        }
+    ]
+}
